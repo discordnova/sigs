@@ -23,7 +23,7 @@ The `SIG/Core` special interest group is directed by @MatthieuCoder.
 
 * @MatthieuCoder is the lead developer
 * @n1c00o is a code quality reviewer
-* @icecodder is a nix infrastructure maintainer
+* @icecodder is a build infastructure maintainer
 
 ### `SIG/discord-openapi`
 
