@@ -43,7 +43,12 @@ The `SIG/testing` special interest group is directed by @MatthieuCoder
 
 ### `SIG/docs`
 
-The `SIG/docs` special interest group is directed by <tbd>
+The `SIG/docs` special interest group is directed by @icecodder
+
+* @icecodder is the lead developer
+* @MatthieuCoder is a documentation reviewer and writer
+* @n1c00o is a documentation reviewer and writer
+* @Kylian030903 is a documentation reviewer and writer
 
 ### `SIG/nova-js`
 
