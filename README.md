@@ -23,7 +23,7 @@ The `SIG/Core` special interest group is directed by @MatthieuCoder.
 
 * @MatthieuCoder is the lead developer
 * @n1c00o is a code quality reviewer
-* @icecodder is a build infastructure maintainer
+* @maxcharroer is a build infastructure maintainer
 
 ### `SIG/discord-openapi`
 
@@ -43,9 +43,9 @@ The `SIG/testing` special interest group is directed by @MatthieuCoder
 
 ### `SIG/docs`
 
-The `SIG/docs` special interest group is directed by @icecodder
+The `SIG/docs` special interest group is directed by @maxcharrier
 
-* @icecodder is the lead developer
+* @maxcharrier is the lead developer
 * @MatthieuCoder is a documentation reviewer and writer
 * @n1c00o is a documentation reviewer and writer
 * @Kylian030903 is a documentation reviewer and writer
